@@ -1,15 +1,62 @@
-## 💫 About Me:
-# Hi, I'm Vivian! 👋<br><br>🎓 BBIT Graduate | Data Science Trainee<br><br>I am a Business Information Technology graduate with additional training in Data Science. I am passionate about using technology, data, and innovative solutions to solve real-world problems.<br><br>Through my academic background and Data Science boot camp training, I have developed skills in programming, data analysis, database management, and machine learning.<br><br> 💻 Technical Skills<br>- **Programming:** Python, SQL<br>- **Data Analysis:** Pandas, NumPy, Matplotlib<br>- **Machine Learning:** Scikit-learn<br>- **Databases:** SQL<br>- **Tools:** Git, GitHub, Jupyter Notebook<br><br>### 🌱 Currently Exploring<br>- Data Science and Machine Learning<br>- Artificial Intelligence<br>- Data Analytics and Visualization<br>- Software Development<br><br> 🎯 Career Interests<br>I am interested in opportunities that allow me to apply technology and data-driven insights to solve business challenges, build innovative solutions, and contribute to digital transformation.<br><br> 📫 Let's Connect<br>I am always open to learning, collaborating, and exploring opportunities in technology and data science.
+Hi 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vivian Doris
+=====================================================================================================================================
 
+🎓 BBIT Graduate | Data Science Trainee
+---------------------------------------
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vivian-Xy&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vivian-Xy&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vivian-Xy&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a Business Information Technology graduate with additional training in Data Science. I am passionate about using technology, data, and innovative solutions to solve real-world problems.
 
----
-[![](https://komarev.com/ghpvc/?username=Vivian-Xy&icon=7&color=10)](https://visitcount.itsvg.in)
+Through my academic background and Data Science boot camp training, I have developed skills in programming, data analysis, database management, and machine learning.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Technical Skills
+
+Programming: Python, SQL
+
+Data Analysis: Pandas, NumPy, Matplotlib
+
+Machine Learning: Scikit-learn
+
+Databases: SQL
+
+Tools: Git, GitHub, Jupyter Notebook
+
+🌱 Currently Exploring
+
+Data Science and Machine Learning
+
+Artificial Intelligence
+
+Data Analytics and Visualization
+
+Software Development
+
+🎯 Career Interests
+
+I am interested in opportunities that allow me to apply technology and data-driven insights to solve business challenges, build innovative solutions, and contribute to digital transformation.
+
+📫 Let's Connect
+
+I am always open to learning, collaborating, and exploring opportunities in technology and data science.
+
+* 🌍  I'm based in Kenya
+* ✉️  You can contact me at [ochiengvivian9940@gmail.com](mailto:ochiengvivian9940@gmail.com)
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+</p>
+
+Socials
+
+<p align="left"> <a href="https://www.github.com/Vivian-Xy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/Vivian-Xy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Vivian-Xy?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a>
+
+Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Vivian-Xy"><img src="https://github-readme-stats.vercel.app/api?username=Vivian-Xy&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="Vivian-Xy's GitHub stats" /></a>
+
+<a href="http://www.github.com/Vivian-Xy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivian-Xy&stroke=ec4899&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ec4899&currStreakLabel=ffffff&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+
+<a href="https://github.com/Vivian-Xy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Xy&langs_count=10&title_color=ffffff&text_color=ec4899&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
